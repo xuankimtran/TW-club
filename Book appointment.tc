@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Book appointment</name>
+   <tag>april</tag>
+   <comment></comment>
+   <testCaseGuid>e164ee79-e9bf-4079-b45f-bbc54ddf14fc</testCaseGuid>
+</TestCaseEntity>
